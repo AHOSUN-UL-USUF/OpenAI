@@ -2,6 +2,8 @@
 from colorama import (Fore)
 print(Fore.GREEN + "Acces by all of your devices using this link :")
 print(Fore.CYAN + "[ https://replit.com/@AHOSUNULYOUSUF/OpenAI ]")
+print(Fore.LIGHTGREEN_EX +"See the source code at:")
+print(Fore.LIGHTCYAN_EX + "[ https://github.com/AHOSUN-UL-USUF/OpenAI/blob/main/CHATTERBOT.PY ]")
 newlist = []
 for i in range(1000):
     from sys import (stdout)
