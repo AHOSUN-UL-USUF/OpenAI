@@ -17,7 +17,7 @@ for i in range(1000):
             stdout.flush()
             sleep(speed)
 # Set up the OpenAI API client 
-    openai.api_key = "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"#type:ignore
+    openai.api_key = "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"
 
 
     model_engine = "text-davinci-003"
