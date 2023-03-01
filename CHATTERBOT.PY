@@ -18,7 +18,7 @@ newlist = []
 for i in range(1000):
 
 # Set up the OpenAI API client
-    openai.api_key = "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"
+    openai.api_key = "Your API_Key here"
 
 
     model_engine = "text-davinci-003"
